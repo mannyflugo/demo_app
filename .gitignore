@@ -17,9 +17,9 @@
 #ignore other unneeded files.
 #rails documentation files, VIM and EMACS swap files
 #for OSX- ds store directories used by the finder application. hart ruby on rails tutorial location 902
-#doc/
-#*.swp
-#*-
-#
-#.project
-#.DS_Store
+doc/
+*.swp
+*-
+
+.project
+.DS_Store
